@@ -4,9 +4,11 @@
 
 # Awesome Agricultural Carbon Management 🌾 Track & Measure Farm Soil Carbon & MRV
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌍 **Curated List of SaaS Platforms & Open-Source GitHub Projects for Agricultural Carbon Management, Soil Carbon MRV (Measurement, Reporting, and Verification), Farm Carbon Credits, Regenerative Agriculture, and Carbon Marketplaces.**
 
@@ -17,7 +19,9 @@
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -137,11 +141,27 @@ We welcome community contributions! To add a new platform or open-source tool:
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using this community repository! If you find this curated ecosystem list helpful for your research, enterprise MRV work, or open-source projects, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase its visibility.
+- 🔀 **Fork** and share it with fellow AgTech, ClimateTech, and soil carbon researchers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance and curation on our [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for educational, research, and informational purposes.
 - Agricultural carbon credits and MRV claims are subject to rigorous registry standards (e.g., Verra, Gold Standard, Climate Action Reserve).
 - Unverified open-source models should be combined with physical soil sampling and approved methodologies prior to issuing commercial carbon credits.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Agricultural-Carbon-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Agricultural-Carbon-Management&type=date&legend=top-left)
 
 ---
 
