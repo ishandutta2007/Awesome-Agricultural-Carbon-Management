@@ -57,7 +57,7 @@ Below is a curated comparison of leading commercial agricultural carbon platform
 
 Open-source tools provide transparent, reproducible codebases for research MRV workflows, satellite remote sensing indices, soil carbon statistics, and farm-scale emission calculators.
 
-Below is the complete catalog of open-source projects, sorted by **GitHub Star Count (descending)**:
+Below is the complete catalog of open-source projects, sorted by **GitHub Stars_Count (descending)**:
 
 * **[ML-in-Agriculture](https://github.com/AkshanshChahal/ML-in-Agriculture)** [![Stars](https://img.shields.io/github/stars/AkshanshChahal/ML-in-Agriculture?style=social&color=white)](https://github.com/AkshanshChahal/ML-in-Agriculture/stargazers) 🤖  
   *Prediction of Crop Yield for farmers based on weather, soil health, and satellite data using Machine Learning models.*
